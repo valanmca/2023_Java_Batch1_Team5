@@ -14,13 +14,15 @@ System.out.println("Addition of a+b is " +addition);
 }
 void subraction(){
 subtraction = a-b;
-System.out.println("Addition of a+b is " +subtraction);
+System.out.println("Subtraction of a+b is " +subtraction);
 }
 void multiplication(){
-
+multiplication = a*b;
+System.out.println("Multiplication of a*b is " +multiplication);
 }
 void division(){
-
+division = a/b;
+System.out.println("Division of a/b is " +division);
 }
 void sum(){
 
