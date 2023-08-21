@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 class Myclass1 {
-<<<<<<< HEAD
     int a,b
     Myclass1(int a,int b){
         this.a=a;
@@ -27,8 +26,20 @@ System.out.println("Addition of a+b is " +addition);
 }
 void subraction(){
 subtraction = a-b;
+
+System.out.println("Subtraction of a+b is " +subtraction);
+}
+void multiplication(){
+multiplication = a*b;
+System.out.println("Multiplication of a*b is " +multiplication);
+}
+void division(){
+division = a/b;
+System.out.println("Division of a/b is " +division);
+}
+void sum(){
+=======
 System.out.println("Addition of a+b is " +subtraction);
->>>>>>> 2bd84aa1e7e1dc505ab308c5196593066d651eac
 }
 void multiplication(){
 int mul=a*b;
@@ -39,12 +50,12 @@ System.out.println("The division of a nad b is "+ mul)
 //}
 //void sum(){
 
-<<<<<<< HEAD
+
 //}
 //void avg(){
 	
 //}
-=======
+
 }
 void avg(){
 
@@ -52,6 +63,6 @@ void avg(){
 void Sara_Method1(){
 }
 void Sara_Method2(){
->>>>>>> 2bd84aa1e7e1dc505ab308c5196593066d651eac
+
 }
 
