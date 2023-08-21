@@ -6,20 +6,10 @@ void addition(){
 void subraction(){
 
 }
-}
-
-
-    
-    
-=======
-class MyClass {
-My method1()
-{
+void multiplication(){
 
 }
-My method2()
-{
-    
+void division(){
+
 }
 }
->>>>>>> e1045f1858f6596961607a2bd9c62084d920f904
