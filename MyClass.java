@@ -29,15 +29,12 @@ void avg(){
 
 }
 void Sara_Method1(){
+	System.out.println("My Method 1");
 }
 void Sara_Method2(){
+	System.out.println("My Method 2");
 }
-Sara_Method1(){
-    System.out.println("My Method 1");
-}
-Sara_Method2(){
-    System.out.println("My Method 2");
-}
+
 }
 public static void main(String arg[]){
     
