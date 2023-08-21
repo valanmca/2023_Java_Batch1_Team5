@@ -11,7 +11,7 @@ class Myclass1 {
 void subraction(){
  int sub=a-b;
  System.out.println("The subraction of a and b is "+ sub);
-=======
+
 	//variables
 	int a,b;
 	//constructers
@@ -52,7 +52,7 @@ System.out.println("The division of a nad b is "+ mul)
 
 
 //}
-//void avg(){
+//void avg//(){
 	
 //}
 
@@ -61,9 +61,26 @@ void avg(){
 
 }
 void Sara_Method1(){
+<<<<<<< HEAD
     System.out.println("Sara");
 }
 void Sara_Method2(){
     System.out.println("Sara");
+=======
+	System.out.println("My Method 1");
 }
+void Sara_Method2(){
+
+	System.out.println("My Method 2");
+>>>>>>> ea1da4c1b872b3ffb547d2b56deca8a7a991b07d
+}
+
+}
+public static void main(String arg[]){
+    
+}
+
+
+}
+
 
