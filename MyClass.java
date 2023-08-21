@@ -12,4 +12,10 @@ void multiplication(){
 void division(){
 
 }
+void sum(){
+
+}
+void avg(){
+	
+}
 }
