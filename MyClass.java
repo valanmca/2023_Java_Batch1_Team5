@@ -61,8 +61,9 @@ void avg(){
 
 }
 void Sara_Method1(){
+    System.out.println("Sara");
 }
 void Sara_Method2(){
-
+    System.out.println("Sara");
 }
 
