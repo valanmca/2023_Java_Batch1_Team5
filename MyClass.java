@@ -28,4 +28,8 @@ void sum(){
 void avg(){
 
 }
+void Sara_Method1(){
+}
+void Sara_Method2(){
+}
 }
